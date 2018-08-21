@@ -10,7 +10,7 @@ foreach(timezone_abbreviations_list() as $abbr => $timezone){
 date_default_timezone_set('America/Mexico_City');
 //$ahora = getdate();
 $ahora=getdate(date("U"));
-print_r($ahora);
+//print_r($ahora);
 print "<br>";
 echo $ahora[hours],':',$ahora[minutes],':',$ahora[seconds];
 print "<br>";
