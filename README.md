@@ -4,4 +4,4 @@ Instituto Tecnológico de Villahermosa
 Desarrollo web
 Codigos de prueba en PHP
 
-Docente: Jorge Villanueva Guzmán
+Docente: Jorge Cein Villanueva Guzmán
