@@ -4,4 +4,4 @@ Instituto Tecnológico de Villahermosa
 Desarrollo web
 Codigos de prueba en PHP
 
-Docente: MTI. Jorge Villanueva
+Docente: Jorge Villanueva Guzmán
